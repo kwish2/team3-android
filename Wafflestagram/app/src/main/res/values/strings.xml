@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wafflestagram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">639628957084606</string>
+    <string name="fb_login_protocol_scheme">fb639628957084606</string>
+    <string name="google_web_client_id">940468021904-sdnvg317c7og17e5s6qhu1elj7j6pc78.apps.googleusercontent.com"</string>
+    <string name="title_activity_detail_user">DetailUserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
